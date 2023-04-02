@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>test picture2</title>
+    <link href="/2023/04/02/test-picture2/"/>
+    <url>/2023/04/02/test-picture2/</url>
+    
+    <content type="html"><![CDATA[<p>hhh</p><p>![pic - 2](/2023/04/02/test-picture2/pic - 2.jpeg)</p><p>![pic - 2](test-picture2\pic - 2.jpeg)</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>test picture</title>
     <link href="/2023/04/02/test-picture/"/>
     <url>/2023/04/02/test-picture/</url>
